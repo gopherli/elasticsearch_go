@@ -1,0 +1,4 @@
+main.go:37:2: no required module provides package github.com/elastic/go-elasticsearch; to add it:
+	go get github.com/elastic/go-elasticsearch
+main.go:38:2: no required module provides package github.com/elastic/go-elasticsearch/esapi; to add it:
+	go get github.com/elastic/go-elasticsearch/esapi
